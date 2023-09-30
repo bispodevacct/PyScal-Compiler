@@ -1,0 +1,25 @@
+function media(a : vetor) : integer
+var m : integer;
+begin
+    m := maior(a) + menor(a);
+    return m / 2;
+end
+begin
+    A:=TAM + 20;
+    B := fatorial(A);
+    C := exp(A,B);
+    D := media(E);
+    lerDados();
+    m == 10;
+    d = m;
+    equal
+end
+
+<!-- This is a comment -->
+"This is a const value"
+<!-- This is a
+second comment -->
+@
+
+2.5.7.9
+@
